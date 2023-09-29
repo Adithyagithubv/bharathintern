@@ -1,0 +1,17 @@
+#img1{
+    float: right;
+    border: 5px;
+}
+body{
+background-color: black;
+color: white;
+background-image:url(images.jpeg) ;
+background-repeat: no-repeat;
+background-size: 1250px 3000px;
+}
+table th{
+    border-style:double;
+    border-width: px;
+    background-color: rgb(244, 244, 244);
+    color: black;
+}
